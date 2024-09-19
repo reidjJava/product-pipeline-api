@@ -1,1 +1,1 @@
-rootProject.name = "product-fixation"
+rootProject.name = "product-pipeline"
